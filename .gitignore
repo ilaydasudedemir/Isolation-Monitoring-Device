@@ -1,0 +1,20 @@
+# Build çıktıları
+Debug/
+Release/
+*.o
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
+*.d
+*.bin
+*.hex
+
+# IDE / kişisel dosyalar
+.settings/
+*.launch
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
